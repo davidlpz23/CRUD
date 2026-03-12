@@ -1,9 +1,17 @@
 
 # CRUD App – Full Stack (React + Node.js + PostgreSQL)
+---
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-This repository contains a **full-stack CRUD application** built to demonstrate solid foundations in **frontend and backend development**, clean architectural separation, and RESTful API design.
+---
 
-The application manages users with full **Create, Read, Update, and Delete (CRUD)** functionality.
+A full-stack CRUD application demonstrating RESTful API design, React component architecture, and relational database management using Sequelize ORM.
+
+The application provides a complete user management system with Create, Read, Update, and Delete (CRUD) operations.
 
 ---
 
